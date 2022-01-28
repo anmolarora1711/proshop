@@ -1,4 +1,4 @@
-import bcrypt, { hash } from 'bcryptjs';
+import bcrypt from 'bcryptjs';
 
 const users = [
   {
