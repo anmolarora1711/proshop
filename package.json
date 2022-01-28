@@ -12,6 +12,7 @@
   "author": "Anmol Arora",
   "license": "MIT",
   "dependencies": {
+    "dotenv": "^14.3.2",
     "express": "^4.17.2"
   },
   "devDependencies": {
